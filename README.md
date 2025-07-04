@@ -1,4 +1,4 @@
-Sayfa oluşturma,Sayfa Veri Transferi
-Yaşam Döngüsü
-Back Stack
-BottomBar
+Sayfa oluşturma,Sayfa Veri Transferi<\br>
+Yaşam Döngüsü<\br>
+Back Stack<\br>
+BottomBar<\br>
